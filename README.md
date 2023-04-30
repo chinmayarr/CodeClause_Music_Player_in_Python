@@ -12,6 +12,8 @@ Execute "source requirements.txt" in terminal
 
 Instructions for running the program:Execute "python music_player.py" command in powershell or termial
 
+Music player window will open
+
 ![image](https://user-images.githubusercontent.com/126230521/235341486-0ebdf1b8-67e0-44aa-adb6-d9b4f62c0bdb.png)
 
 Upload the folder where songs are present and listen to the song of your choice
