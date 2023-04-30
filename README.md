@@ -8,6 +8,7 @@ Execute "./requirements.cmd" in powershell
 
 Ubuntu
 Install python3 and pip.
+Execute "sudo apt install python3-tk".
 Execute "source requirements.txt" in terminal
 
 Instructions for running the program:Execute "python music_player.py" command in powershell or termial
