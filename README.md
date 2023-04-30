@@ -17,8 +17,9 @@ Music player window will open
 
 ![image](https://user-images.githubusercontent.com/126230521/235341486-0ebdf1b8-67e0-44aa-adb6-d9b4f62c0bdb.png)
 
-Upload the folder where songs are present and listen to the song of your choice
+Upload the folder where songs are present
 
 ![image](https://user-images.githubusercontent.com/126230521/235341605-43831f4d-a2bf-43e2-b03b-6561b818fc86.png)
 
-
+Listen to the song of your choice
+![image](https://user-images.githubusercontent.com/126230521/235343078-edd201e3-50a6-433c-bd3f-b7db069f55c5.png)
